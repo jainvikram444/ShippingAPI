@@ -57,11 +57,11 @@
             ​/api​/Ships​/{id}
             Delete Ship.
         
-5) Test Project download from "https://github.com/jainvikram444/ShiipingAPI.Tests/tree/master" and add current solution. Update projet dependecies as per project location.
+5) Test Project: Ref:  "https://github.com/jainvikram444/ShippingAPI/tree/master/ShiipingAPI.Tests".
 
 6) CI: Integrated with the solution in GIT Action for the build and test.
     - It's just for the demo.
-    - Verify at: https://github.com/jainvikram444/ShiipingAPI/actions
+    - Verify at: https://github.com/jainvikram444/ShippingAPI/actions
 
 7) Docker:
          - Two way is there for the running docker images:
