@@ -2,7 +2,7 @@
 
 1) Used belwow service
     - .NET core 6.0
-    - SQL Server
+    - SQL Server - Express
 
 2) Change the SQL connection string set n secrets.json file or set as per below:
 - Like:  
